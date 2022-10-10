@@ -41,19 +41,19 @@ Secrets Name | Uses | Notes
 <br>
 
 - Desktop Screenshot
-<img src="https://github.com/xLamday/LuppiLandia-MacOS-RDP/blob/main/screenshots/1.png?raw=true" >
+<img src="https://raw.githubusercontent.com/prateekg34/testing/main/screenshots/1.png" >
 
 - Settings
-<img src="https://github.com/xLamday/LuppiLandia-MacOS-RDP/blob/main/screenshots/2.png?raw=true" >
+<img src="https://raw.githubusercontent.com/prateekg34/testing/main/screenshots/2.png" >
 
 - RAM
-<img src="https://github.com/xLamday/LuppiLandia-MacOS-RDP/blob/main/screenshots/3.png?raw=true" >
+<img src="https://raw.githubusercontent.com/prateekg34/testing/main/screenshots/3.png" >
 
 - Storage
-<img src="https://github.com/xLamday/LuppiLandia-MacOS-RDP/blob/main/screenshots/4.png?raw=true" >
+<img src="https://raw.githubusercontent.com/prateekg34/testing/main/screenshots/4.png" >
 
 - Pre-Installed Apps
-<img src="https://github.com/xLamday/LuppiLandia-MacOS-RDP/blob/main/screenshots/5.png?raw=true" >
+<img src="https://raw.githubusercontent.com/prateekg34/testing/main/screenshots/5.png" >
 
 </details>
 
