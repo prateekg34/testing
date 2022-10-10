@@ -1,4 +1,4 @@
-name: LuppiLandia-MacOS
+name: Test-MacOS
 on: 
   workflow_dispatch:
 defaults:
