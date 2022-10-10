@@ -59,5 +59,5 @@ Secrets Name | Uses | Notes
 
 :warning: Dont install "Big Sur" updates on your MACOS virtual machine, it will break your remote process!
 
-<img src="https://raw.githubusercontent.com/RealKoolisw/image/main/VirtualMachine-GHAction/sceenshots/Screenshot%202021-02-23%20at%207.35.57%20AM.png">
+<img src="https://raw.githubusercontent.com/prateekg34/testing/main/screenshots/6.png">
 </details>
